@@ -2,8 +2,6 @@
 
 # Altium PCB Design for F400Z Crystal Board
 
-![Project Logo](images/project_logo.png)
-
 ## Overview
 
 This GitHub repository contains the design files and documentation for the Altium PCB project aimed at integrating the F400Z Crystal Board into an electronic system. The F400Z Crystal Board is an essential component for various applications, and this project focuses on designing a PCB to seamlessly integrate it.
